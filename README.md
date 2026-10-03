@@ -11,6 +11,10 @@ Shooting Game - A first-person shooter built using Unity and C#.
 Typing Race Simulator — A Java Swing application with a graphical user interface.
 Profile Website — A web development project built using HTML, CSS and PHP.
 
+### Contact details
+LinkedIn - https://www.linkedin.com/in/cassandra-chew-18a297388/
+Email - cchew0061@gnail.com
+
 <!--
 **cchew0061-svg/cchew0061-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
