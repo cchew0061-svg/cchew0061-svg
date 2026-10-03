@@ -4,15 +4,19 @@ I am a Computer Science undergraduate student at Queen Mary University of London
 
 ### My Skills
 Languages: C++, C#, Java, Python, HTML, CSS
+
 Tools: Git, GitHub, Unity, Unreal Engine
 
 ### My Finished Projects
 Shooting Game - A first-person shooter built using Unity and C#.
+
 Typing Race Simulator — A Java Swing application with a graphical user interface.
+
 Profile Website — A web development project built using HTML, CSS and PHP.
 
 ### Contact details
 LinkedIn - https://www.linkedin.com/in/cassandra-chew-18a297388/
+
 Email - cchew0061@gnail.com
 
 <!--
